@@ -1,107 +1,107 @@
-export const rooms = [
+export const hallsList = [
     {
         id: '1',
-        room_id: 'R1',
-        room_name: 'Room_1',
+        hall_id: 'R1',
+        hall_name: 'Hall_1',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
             {
                 customer_name: 'Sam',
-                date: '10-08-2022',
-                start_time: '00:01 AM',
-                end_time: '11:59 PM'
+                date: '08-10-2022',
+                start_time: '12:00 PM',
+                end_time: '02:00 PM',
             }
         ]
     },
     {
         id: '2',
-        room_id: 'R2',
-        room_name: 'Room_2',
+        hall_id: 'R2',
+        hall_name: 'Hall_2',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: []
     },
     {
         id: '3',
-        room_id: 'R3',
-        room_name: 'Room_3',
+        hall_id: 'R3',
+        hall_name: 'Hall_3',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: []
     },
     {
         id: '4',
-        room_id: 'R4',
-        room_name: 'Room_4',
+        hall_id: 'R4',
+        hall_name: 'Hall_4',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
             {
                 customer_name: 'Lindsay',
-                date: '12-08-2022',
+                date: '08-12-2022',
                 start_time: '10:00 AM',
-                end_time: '10:00 PM'
+                end_time: '12:00 PM'
             },
             {
                 customer_name: 'Williams',
-                date: '20-08-2022',
-                start_time: '00:01 AM',
-                end_time: '11:00 PM'
+                date: '08-14-2022',
+                start_time: '09:30 AM',
+                end_time: '11:30 AM',
             },
         ]
     },
     {
         id: '5',
-        room_id: 'R5',
-        room_name: 'Room_5',
+        hall_id: 'R5',
+        hall_name: 'Hall_5',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
             {
                 customer_name: 'Sundar',
-                date: '09-08-2022',
-                start_time: '04:30 AM',
-                end_time: '11:59 PM'
+                date: '08-09-2022',
+                start_time: '05:00 PM',
+                end_time: '09:00 PM'
             },
         ],
     },
     {
         id: '6',
-        room_id: 'R6',
-        room_name: 'Room_6',
+        hall_id: 'R6',
+        hall_name: 'Hall_6',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: []
     },
     {
         id: '7',
-        room_id: 'R7',
-        room_name: 'Room_7',
+        hall_id: 'R7',
+        hall_name: 'Hall_7',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [],
     },
     {
         id: '8',
-        room_id: 'R8',
-        room_name: 'Room_8',
+        hall_id: 'R8',
+        hall_name: 'Hall_8',
         seats: '2',
-        amenities: ['Coffee Kit', 'Free WiFi', 'Gym', 'Room Service', 'AC'],
+        amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
             {
                 customer_name: 'Rohan Raj',
-                date: '01-09-2022',
-                start_time: '03:00 Am',
-                end_time: '11:30 PM'
+                date: '09-01-2022',
+                start_time: '06:00 PM',
+                end_time: '08:30 PM'
             }
         ],
     },
