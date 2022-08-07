@@ -105,7 +105,7 @@ app.get('/allhallLists', async (req, res) => {
     let allhallsList = [];
 
     await hallsList.map(hall => allhallsList.push({
-        room_Name: hall.hall_name, booked_date_details: hall.booked_date_details
+        hall_Name: hall.hall_name, booked_date_details: hall.booked_date_details
     }));
 
     res.status(200).send(allhallsList)

@@ -3,7 +3,7 @@ export const hallsList = [
         id: '1',
         hall_id: 'R1',
         hall_name: 'Hall_1',
-        seats: '2',
+        seats: '20',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
@@ -19,7 +19,7 @@ export const hallsList = [
         id: '2',
         hall_id: 'R2',
         hall_name: 'Hall_2',
-        seats: '2',
+        seats: '20',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: []
@@ -28,7 +28,7 @@ export const hallsList = [
         id: '3',
         hall_id: 'R3',
         hall_name: 'Hall_3',
-        seats: '2',
+        seats: '30',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: []
@@ -37,7 +37,7 @@ export const hallsList = [
         id: '4',
         hall_id: 'R4',
         hall_name: 'Hall_4',
-        seats: '2',
+        seats: '25',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
@@ -59,7 +59,7 @@ export const hallsList = [
         id: '5',
         hall_id: 'R5',
         hall_name: 'Hall_5',
-        seats: '2',
+        seats: '10',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
@@ -75,7 +75,7 @@ export const hallsList = [
         id: '6',
         hall_id: 'R6',
         hall_name: 'Hall_6',
-        seats: '2',
+        seats: '60',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: []
@@ -84,7 +84,7 @@ export const hallsList = [
         id: '7',
         hall_id: 'R7',
         hall_name: 'Hall_7',
-        seats: '2',
+        seats: '100',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [],
@@ -93,7 +93,7 @@ export const hallsList = [
         id: '8',
         hall_id: 'R8',
         hall_name: 'Hall_8',
-        seats: '2',
+        seats: '75',
         amenities: ['Welcome Drink', 'Music System', 'Free WiFi', 'Gym', 'AC'],
         price: '100',
         booked_date_details: [
