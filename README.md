@@ -3,12 +3,10 @@
 
 ### API End Points
 
-* Create Hall :
-* Book Hall :
-* All Halls :
-* All Customers :
+* Create Hall : <https://hall-booking0.herokuapp.com/createHall>
+* Book Hall : <https://hall-booking0.herokuapp.com/bookHall>
+* All Halls : <https://hall-booking0.herokuapp.com/allhallLists>
+* All Customers : <https://hall-booking0.herokuapp.com/allCustomers>
 
-### URLs
-
-* Heroku :
-* API Doc :
+#### Postman Documentation
+* API Doc : <https://documenter.getpostman.com/view/22557220/VUjMokfT>
